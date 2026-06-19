@@ -16,7 +16,7 @@ software — fast. Currently going deep on Python, data, and machine learning.
 
 🤝 **Open to:** AI/ML internships, freelance projects, and collaboration
 
-📫 **Reach me:** [LinkedIn](your-link-here) · 24L-0053@qu.edu.pk
+📫 **Reach me:** [LinkedIn](www.linkedin.com/in/ibrahim-hsn) · 24L-0053@qu.edu.pk
 
 ---
 
