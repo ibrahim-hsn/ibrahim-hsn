@@ -11,8 +11,11 @@ software — fast. Currently going deep on Python, data, and machine learning.
 ---
 
 🔭 **Currently building:** AI-powered tools & data projects in Python
+
 🌱 **Learning:** Machine Learning, pandas, and LLM application development
+
 🤝 **Open to:** AI/ML internships, freelance projects, and collaboration
+
 📫 **Reach me:** [LinkedIn](your-link-here) · 24L-0053@qu.edu.pk
 
 ---
