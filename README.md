@@ -10,11 +10,13 @@ software — fast. Currently going deep on Python, data, and machine learning.
 
 ---
 
-🔭 **Currently building:** AI-powered tools & data projects in Python
+🔭 **Currently building:** an AI-powered social media management app (in progress)
 
-🌱 **Learning:** Machine Learning, pandas, and LLM application development
+🌱 **Learning:** Python for AI/ML — pandas, data handling, and LLM app integration
 
 🤝 **Open to:** AI/ML internships, freelance projects, and collaboration
+
+
 
 📫 **Reach me:** [LinkedIn](https://linkedin.com/in/ibrahim-hsn)
  · 24L-0053@qu.edu.pk
